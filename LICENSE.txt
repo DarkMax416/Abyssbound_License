@@ -1,13 +1,34 @@
-All Rights Reserved
+DarkMax Mod License
 
-This mod and all associated assets (including code, textures, models, and sounds) are the exclusive property of [Your Name/Mod Name].
+1. Distribution
+   Any files covered by this license may only be distributed through Modrinth or CurseForge.
+   If the mod is presented on any other platform, it must not provide a direct download. Instead, it must link to the official Modrinth or CurseForge page.
 
-You may NOT:
-- Redistribute this mod on any other website or platform.
-- Modify, decompile, or reverse-engineer this mod.
-- Use any part of this mod in other mods or projects.
+2. Media Usage
+   Official images or artwork may not be reused on external sites.
+   If images are shown elsewhere, they must be original screenshots or media created by the uploader.
 
-However, you MAY:
-- Include this mod in public or private modpacks without needing prior permission, provided proper credit is given and the mod is not modified in any way.
+3. Reuploads, Ports, and Credits
+   Permission must be obtained before:
 
-Contact for questions: https://discord.gg/uMb8FNHCbM
+* Reuploading the mod
+* Porting it to another modloader
+* Porting it to another Minecraft version
+
+Contact must be made through official accounts listed on the mod pages (e.g., TikTok, Discord, CurseForge comments).
+
+Ports will be declined if an official version already exists for the requested loader or game version.
+
+When permission is granted, proper credit must be given to:
+Dark__Max or Dark__Max416
+
+4. Compatibility Modifications
+   You may create compatibility additions with other mods without permission.
+   Credit to the original author must still be provided.
+
+5. Artwork Ownership
+   Artwork or images created by Dark__Max or contributors must not be claimed as your own work.
+
+6. Commercial Use
+   Use of the mod in commercial contexts (such as monetized content) is allowed.
+   Credit is appreciated but not required.
