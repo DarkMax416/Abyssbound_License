@@ -4,6 +4,9 @@ DarkMax Mod License
    Any files covered by this license may only be distributed through Modrinth or CurseForge.
    If the mod is presented on any other platform, it must not provide a direct download. Instead, it must link to the official Modrinth or CurseForge page.
 
+   Private Distribution Exception:
+   Sharing the mod file privately (e.g., with friends) is allowed, provided it is not publicly hosted, redistributed, or monetized.
+
 2. Media Usage
    Official images or artwork may not be reused on external sites.
    If images are shown elsewhere, they must be original screenshots or media created by the uploader.
