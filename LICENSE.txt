@@ -1,7 +1,7 @@
 DarkMax Mod License
 
 1. Distribution
-   Any files covered by this license may only be distributed through Modrinth or CurseForge.
+   Any files covered by this license may only be distributed through Modrinth or CurseForge (or the official mcreator page) (modpacks containing this mod are therefor also only allowed to be publicly distributed on Curseforge and Modrinth).
    If the mod is presented on any other platform, it must not provide a direct download. Instead, it must link to the official Modrinth or CurseForge page.
 
    Private Distribution Exception:
