@@ -6,6 +6,7 @@ DarkMax Mod License
 
    Private Distribution Exception:
    Sharing the mod file privately (e.g., with friends) is allowed, provided it is not publicly hosted, redistributed, or monetized.
+   the minecraft server hosting website aternos.org may also provide a direct download for files under this Licence as well.
 
 2. Media Usage
    Official images or artwork may not be reused on external sites.
